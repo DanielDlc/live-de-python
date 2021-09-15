@@ -1,4 +1,0 @@
-vcrpy
-pytest
-pytest-asyncio
-aiohttp

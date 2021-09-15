@@ -1,3 +1,0 @@
-SOCKSPort 9050
-ControlPort 9051
-DataDirectory /usr/local/etc/tor/9050
